@@ -1,2 +1,2 @@
-# hitachi_HD44780
-Hitachi HD44780, an alphanumeric dot matrix liquid crystal display controller
+# 'hitachi_HD44780-master.repo'
+'hitachi_HD44780-master.repo' >> an alphanumeric dot matrix liquid crystal display controller/driver & pro Arduino ( architecture = * )
